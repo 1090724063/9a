@@ -1,0 +1,11 @@
+{
+  "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json",
+    "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json",
+    "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/19.json",
+    "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/18.json",
+    "https://ghproxy.net/https://raw.githubusercontent.com/dlgt7/CatVodSpider-FongMi/main/json/adult.json",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult1.json",
+    "https://raw.githubusercontent.com/jadehh/TVBox/main/18.json"   // 加个新源试试
+  ]
+}
